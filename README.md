@@ -1,6 +1,6 @@
 # JAVA MINIMAL CI/CD
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gerardVM/java-basic-ci-cd)
+![GitHub last commit](https://img.shields.io/github/last-commit/gerardVM/java-spring-ci-cd)
 
 This Error page coded in Java is containerized automatically by GitHub Actions, pushed to Docker hub and updated in my Kubernetes deployment every time the branch main is updated.
 
